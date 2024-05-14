@@ -1,0 +1,2 @@
+# ovo
+Osnove Virtualnih Okruženja
